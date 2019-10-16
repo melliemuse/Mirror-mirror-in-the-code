@@ -1,0 +1,17 @@
+body {
+    color: lightskyblue;
+    background-color: slategray;
+}
+article {
+    width: 50%;
+}
+.article {
+    display: flex;
+    flex-direction: row;
+}
+#article1-flex {
+    border: 3px solid purple;
+}
+#article2-flex {
+    border: 3px solid aqua;
+}
